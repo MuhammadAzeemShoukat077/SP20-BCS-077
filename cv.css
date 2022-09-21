@@ -20,7 +20,7 @@ body {
 }
 .left {
 	position: initial;
-	background-color: #00afb9;
+	background-color: #bbe6e4;
 	padding: 20px;
 	font-display: white;
 
@@ -28,7 +28,7 @@ body {
 
 .right {
 	position: initial;
-	background-color: #ade8f4;
+	background-color: #f0f6f6;
 	padding: 20px;
 
 }
