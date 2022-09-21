@@ -39,3 +39,6 @@ body {
 .h2 {
 	background-color: rgb(214, 220, 233);
 }
+li{
+	margin-left: 20px;
+}
