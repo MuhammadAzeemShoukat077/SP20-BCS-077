@@ -120,4 +120,26 @@ nav .fa {
     font-size: 22px;
     cursor: pointer;
   }
+
+  .nav_link ul{
+    padding: 30px;
+  }
+}
+
+.course{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+}
+h1{
+  font-size: 36px;
+  font-weight: 600;
+}
+p{
+  color: rgb(103, 156, 158);
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 22px;
+  padding: 10px;
 }
