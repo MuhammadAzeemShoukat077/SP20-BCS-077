@@ -1,4 +1,4 @@
-* {
+*{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
@@ -23,7 +23,6 @@ body {
 	background-color: #bbe6e4;
 	padding: 20px;
 	font-display: white;
-
 }
 
 .right {
